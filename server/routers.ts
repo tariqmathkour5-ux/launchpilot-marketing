@@ -4,6 +4,7 @@ import { systemRouter } from "./_core/systemRouter";
 import { publicProcedure, router, protectedProcedure } from "./_core/trpc";
 import { z } from "zod";
 import { getCategories, getCategoryBySlug, getTools, getToolsByCategory, getToolBySlug, createTool, getPublishedBlogPosts, getBlogPostBySlug, createContactMessage, getContactMessages } from "./db";
+import { importExportRouter } from "./import-export";
 
 export const appRouter = router({
   system: systemRouter,
@@ -111,6 +112,9 @@ export const appRouter = router({
       return getContactMessages();
     }),
   }),
+
+  // Import/Export router
+  importExport: importExportRouter,
 });
 
 export type AppRouter = typeof appRouter;
