@@ -11,13 +11,14 @@ import Blog from "./pages/Blog";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Navigation from "./components/Navigation";
+import Footer from "./components/Footer";
 
 function Router() {
   // make sure to consider if you need authentication for certain routes
   return (
     <div className="flex flex-col min-h-screen">
       <Navigation />
-      <main className="flex-1">
+      <main className="flex-1 bg-white">
         <Switch>
           <Route path={"/"} component={Home} />
           <Route path={"/categories"} component={Categories} />
@@ -30,6 +31,7 @@ function Router() {
           <Route component={NotFound} />
         </Switch>
       </main>
+      <Footer />
     </div>
   );
 }
