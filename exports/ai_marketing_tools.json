@@ -1,0 +1,2471 @@
+[
+  {
+    "id": 1,
+    "name": "Semrush",
+    "slug": "semrush",
+    "description": "All-in-one SEO platform with AI-powered visibility tracking in AI search engines, content optimization, and competitive analysis.",
+    "website": "https://www.semrush.com",
+    "category": "AI SEO Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "AI Visibility Tracking",
+      "Keyword Research",
+      "Content Optimization",
+      "Backlink Analysis",
+      "Rank Tracking",
+      "Technical Audit",
+      "AI Search Monitoring"
+    ],
+    "integrations": [
+      "Google Analytics",
+      "Google Search Console",
+      "CMS platforms",
+      "Zapier"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:28.000Z",
+    "updatedAt": "2026-06-24T20:40:28.000Z"
+  },
+  {
+    "id": 2,
+    "name": "SparkToro",
+    "slug": "sparktoro",
+    "description": "Audience research platform using AI to uncover where target audiences spend time and what topics resonate.",
+    "website": "https://sparktoro.com",
+    "category": "AI SEO Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Audience Research",
+      "Topic Analysis",
+      "Platform Affinity",
+      "Demographic Insights",
+      "AI Conversational Search",
+      "Content Gap Analysis"
+    ],
+    "integrations": [
+      "Google Analytics",
+      "Slack",
+      "Zapier"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:28.000Z",
+    "updatedAt": "2026-06-24T20:40:28.000Z"
+  },
+  {
+    "id": 3,
+    "name": "AlsoAsked",
+    "slug": "alsoasked",
+    "description": "AI-powered keyword research tool that extracts People Also Ask questions and builds topic clusters for AI search optimization.",
+    "website": "https://alsoasked.com",
+    "category": "AI SEO Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "People Also Ask Mining",
+      "Topic Clustering",
+      "Question Mapping",
+      "Content Gap Analysis",
+      "FAQ Generation"
+    ],
+    "integrations": [
+      "Google Search Console",
+      "Zapier"
+    ],
+    "apiAvailable": false,
+    "createdAt": "2026-06-24T20:40:28.000Z",
+    "updatedAt": "2026-06-24T20:40:28.000Z"
+  },
+  {
+    "id": 4,
+    "name": "Surfer SEO",
+    "slug": "surfer-seo",
+    "description": "Content optimization platform using AI to provide data-driven on-page recommendations based on top-ranking pages.",
+    "website": "https://www.surferseo.com",
+    "category": "AI SEO Tools",
+    "pricingModel": "paid",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Content Editor",
+      "Rank Tracker",
+      "Keyword Research",
+      "Audit Tool",
+      "AI Writing Assistant",
+      "SERP Analyzer"
+    ],
+    "integrations": [
+      "WordPress",
+      "Google Analytics",
+      "Zapier",
+      "Slack"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:28.000Z",
+    "updatedAt": "2026-06-24T20:40:28.000Z"
+  },
+  {
+    "id": 5,
+    "name": "Ahrefs",
+    "slug": "ahrefs",
+    "description": "Comprehensive SEO suite with AI-powered content helper, backlink analysis, and rank tracking.",
+    "website": "https://ahrefs.com",
+    "category": "AI SEO Tools",
+    "pricingModel": "paid",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "AI Content Helper",
+      "Backlink Analysis",
+      "Rank Tracker",
+      "Keyword Research",
+      "Site Audit",
+      "Content Gap Analysis"
+    ],
+    "integrations": [
+      "Google Analytics",
+      "Google Search Console",
+      "Slack",
+      "Zapier"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:28.000Z",
+    "updatedAt": "2026-06-24T20:40:28.000Z"
+  },
+  {
+    "id": 6,
+    "name": "Clearscope",
+    "slug": "clearscope",
+    "description": "AI-powered content optimization tool that analyzes search intent and provides real-time recommendations for ranking content.",
+    "website": "https://www.clearscope.io",
+    "category": "AI SEO Tools",
+    "pricingModel": "paid",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Content Optimization",
+      "Search Intent Analysis",
+      "Topic Clustering",
+      "Competitive Analysis",
+      "Real-time Recommendations"
+    ],
+    "integrations": [
+      "Google Search Console",
+      "WordPress",
+      "Zapier"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:28.000Z",
+    "updatedAt": "2026-06-24T20:40:28.000Z"
+  },
+  {
+    "id": 7,
+    "name": "SE Ranking",
+    "slug": "se-ranking",
+    "description": "All-in-one SEO platform with AI-powered content optimization, rank tracking, and competitive analysis.",
+    "website": "https://www.seranking.com",
+    "category": "AI SEO Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Rank Tracking",
+      "Content Optimization",
+      "Keyword Research",
+      "Backlink Analysis",
+      "Site Audit",
+      "Competitor Analysis"
+    ],
+    "integrations": [
+      "Google Analytics",
+      "Google Search Console",
+      "Zapier"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:28.000Z",
+    "updatedAt": "2026-06-24T20:40:28.000Z"
+  },
+  {
+    "id": 8,
+    "name": "Rankscale.ai",
+    "slug": "rankscaleai",
+    "description": "AI-powered SEO platform for content optimization and ranking improvement.",
+    "website": "https://rankscale.ai",
+    "category": "AI SEO Tools",
+    "pricingModel": "paid",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Content Optimization",
+      "Rank Tracking",
+      "Keyword Research",
+      "AI Recommendations"
+    ],
+    "integrations": [
+      "Google Search Console",
+      "Zapier"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:28.000Z",
+    "updatedAt": "2026-06-24T20:40:28.000Z"
+  },
+  {
+    "id": 9,
+    "name": "AIclicks",
+    "slug": "aiclicks",
+    "description": "AI-powered SEO tool for keyword research and content optimization.",
+    "website": "https://aiclicks.io",
+    "category": "AI SEO Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Keyword Research",
+      "Content Optimization",
+      "Competitor Analysis",
+      "Rank Tracking"
+    ],
+    "integrations": [
+      "Zapier"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:28.000Z",
+    "updatedAt": "2026-06-24T20:40:28.000Z"
+  },
+  {
+    "id": 10,
+    "name": "Keyword Insights",
+    "slug": "keyword-insights",
+    "description": "AI-powered keyword research and content planning tool.",
+    "website": "https://keywordinsights.ai",
+    "category": "AI SEO Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Keyword Research",
+      "Content Planning",
+      "Topic Clustering",
+      "Competitor Analysis"
+    ],
+    "integrations": [
+      "Google Search Console",
+      "Zapier"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:28.000Z",
+    "updatedAt": "2026-06-24T20:40:28.000Z"
+  },
+  {
+    "id": 11,
+    "name": "Writesonic",
+    "slug": "writesonic",
+    "description": "All-in-one AI content creation platform with SEO research, writing, optimization, and publishing capabilities.",
+    "website": "https://writesonic.com",
+    "category": "AI Copywriting Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "AI Article Writer",
+      "Chatsonic Agent",
+      "SEO Integration",
+      "Real-time Data",
+      "Multi-model LLM Support",
+      "Content Publishing"
+    ],
+    "integrations": [
+      "Semrush",
+      "Ahrefs",
+      "Keywords Everywhere",
+      "Zapier"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:28.000Z",
+    "updatedAt": "2026-06-24T20:40:28.000Z"
+  },
+  {
+    "id": 12,
+    "name": "Jasper",
+    "slug": "jasper",
+    "description": "Enterprise AI copywriting platform with brand voice training, team collaboration, and multi-format content generation.",
+    "website": "https://www.jasper.ai",
+    "category": "AI Copywriting Tools",
+    "pricingModel": "paid",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Brand Voice Training",
+      "Multi-format Templates",
+      "Team Collaboration",
+      "Content Calendar",
+      "AI Chat",
+      "SEO Optimization"
+    ],
+    "integrations": [
+      "HubSpot",
+      "Zapier",
+      "Google Drive",
+      "Slack"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:28.000Z",
+    "updatedAt": "2026-06-24T20:40:28.000Z"
+  },
+  {
+    "id": 13,
+    "name": "Copy.ai",
+    "slug": "copyai",
+    "description": "AI copywriting tool with workflow automation, multi-format content generation, and team features.",
+    "website": "https://www.copy.ai",
+    "category": "AI Copywriting Tools",
+    "pricingModel": "free",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Content Workflows",
+      "Multi-format Generation",
+      "Team Collaboration",
+      "Brand Voice",
+      "API Access",
+      "Zapier Integration"
+    ],
+    "integrations": [
+      "Zapier",
+      "Slack",
+      "Google Drive",
+      "2000+ apps"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:28.000Z",
+    "updatedAt": "2026-06-24T20:40:28.000Z"
+  },
+  {
+    "id": 14,
+    "name": "ChatGPT Plus",
+    "slug": "chatgpt-plus",
+    "description": "General-purpose AI assistant with powerful copywriting, brainstorming, and content adaptation capabilities.",
+    "website": "https://chatgpt.com",
+    "category": "AI Copywriting Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Content Generation",
+      "Brainstorming",
+      "Editing",
+      "Translation",
+      "Code Generation",
+      "Custom GPTs"
+    ],
+    "integrations": [
+      "Web browsing",
+      "Code Interpreter",
+      "File uploads"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:28.000Z",
+    "updatedAt": "2026-06-24T20:40:28.000Z"
+  },
+  {
+    "id": 15,
+    "name": "Rytr",
+    "slug": "rytr",
+    "description": "Affordable AI writing assistant for creating marketing copy, emails, and social media content.",
+    "website": "https://rytr.me",
+    "category": "AI Copywriting Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "50+ Writing Templates",
+      "Tone Selection",
+      "Content Repurposing",
+      "Plagiarism Checker",
+      "Grammar Check"
+    ],
+    "integrations": [
+      "Zapier",
+      "Google Drive"
+    ],
+    "apiAvailable": false,
+    "createdAt": "2026-06-24T20:40:29.000Z",
+    "updatedAt": "2026-06-24T20:40:29.000Z"
+  },
+  {
+    "id": 16,
+    "name": "Instantly.ai",
+    "slug": "instantlyai",
+    "description": "AI-powered outreach platform with B2B lead database, email automation, and CRM integration.",
+    "website": "https://instantly.ai",
+    "category": "AI Lead Generation Tools",
+    "pricingModel": "free",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Lead Database",
+      "Email Automation",
+      "AI Sequences",
+      "Deliverability Tools",
+      "CRM Integration",
+      "Analytics"
+    ],
+    "integrations": [
+      "Zapier",
+      "Google Sheets",
+      "Slack",
+      "CRM platforms"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:29.000Z",
+    "updatedAt": "2026-06-24T20:40:29.000Z"
+  },
+  {
+    "id": 17,
+    "name": "Apollo.io",
+    "slug": "apolloio",
+    "description": "All-in-one sales platform with B2B database, email sequences, dialers, and AI-powered lead scoring.",
+    "website": "https://www.apollo.io",
+    "category": "AI Lead Generation Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "B2B Database",
+      "Email Sequencing",
+      "Dialer",
+      "Lead Scoring",
+      "CRM Integration",
+      "AI Workflows"
+    ],
+    "integrations": [
+      "Salesforce",
+      "HubSpot",
+      "Slack",
+      "Zapier"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:29.000Z",
+    "updatedAt": "2026-06-24T20:40:29.000Z"
+  },
+  {
+    "id": 18,
+    "name": "Seamless.ai",
+    "slug": "seamlessai",
+    "description": "AI sales platform delivering verified B2B leads, automated outreach, and real-time buyer intent signals.",
+    "website": "https://seamless.ai",
+    "category": "AI Lead Generation Tools",
+    "pricingModel": "paid",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Verified Leads",
+      "Automated Outreach",
+      "Buyer Intent Signals",
+      "Email Finder",
+      "Phone Finder",
+      "CRM Sync"
+    ],
+    "integrations": [
+      "Salesforce",
+      "HubSpot",
+      "Slack",
+      "Zapier"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:29.000Z",
+    "updatedAt": "2026-06-24T20:40:29.000Z"
+  },
+  {
+    "id": 19,
+    "name": "Clay",
+    "slug": "clay",
+    "description": "GTM platform with waterfall data enrichment, AI agents for prospect research, and personalized outreach.",
+    "website": "https://www.clay.com",
+    "category": "AI Lead Generation Tools",
+    "pricingModel": "enterprise",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Waterfall Enrichment",
+      "AI Agents",
+      "Multi-source Data",
+      "Claygent Research",
+      "Workflow Automation"
+    ],
+    "integrations": [
+      "LinkedIn",
+      "Clearbit",
+      "CRM platforms",
+      "Zapier"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:29.000Z",
+    "updatedAt": "2026-06-24T20:40:29.000Z"
+  },
+  {
+    "id": 20,
+    "name": "Lemlist",
+    "slug": "lemlist",
+    "description": "Email marketing and lead generation platform with AI personalization and automated sequences.",
+    "website": "https://lemlist.com",
+    "category": "AI Lead Generation Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "AI Personalization",
+      "Email Sequences",
+      "Lead Database",
+      "Deliverability",
+      "A/B Testing",
+      "Analytics"
+    ],
+    "integrations": [
+      "Zapier",
+      "Slack",
+      "CRM platforms",
+      "Google Sheets"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:29.000Z",
+    "updatedAt": "2026-06-24T20:40:29.000Z"
+  },
+  {
+    "id": 21,
+    "name": "Hunter.io",
+    "slug": "hunterio",
+    "description": "Email finder and verification tool for B2B lead generation with domain search and email validation.",
+    "website": "https://hunter.io",
+    "category": "AI Lead Generation Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Email Finder",
+      "Domain Search",
+      "Email Verification",
+      "Lead Lists",
+      "API Access",
+      "Integrations"
+    ],
+    "integrations": [
+      "Zapier",
+      "HubSpot",
+      "Salesforce",
+      "Slack"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:29.000Z",
+    "updatedAt": "2026-06-24T20:40:29.000Z"
+  },
+  {
+    "id": 22,
+    "name": "ZoomInfo",
+    "slug": "zoominfo",
+    "description": "Enterprise B2B database with AI-powered lead scoring, intent data, and buyer intelligence.",
+    "website": "https://www.zoominfo.com",
+    "category": "AI Lead Generation Tools",
+    "pricingModel": "enterprise",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "B2B Database",
+      "Intent Data",
+      "Lead Scoring",
+      "Buyer Intelligence",
+      "CRM Integration",
+      "Analytics"
+    ],
+    "integrations": [
+      "Salesforce",
+      "HubSpot",
+      "Marketo",
+      "Slack"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:29.000Z",
+    "updatedAt": "2026-06-24T20:40:29.000Z"
+  },
+  {
+    "id": 23,
+    "name": "Podium",
+    "slug": "podium",
+    "description": "Local business platform with AI-powered lead capture, messaging, and customer engagement.",
+    "website": "https://www.podium.com",
+    "category": "AI Lead Generation Tools",
+    "pricingModel": "paid",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Lead Capture",
+      "SMS Messaging",
+      "Review Management",
+      "Webchat",
+      "CRM Integration"
+    ],
+    "integrations": [
+      "Zapier",
+      "Salesforce",
+      "HubSpot"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:29.000Z",
+    "updatedAt": "2026-06-24T20:40:29.000Z"
+  },
+  {
+    "id": 24,
+    "name": "Brevo (Sendinblue)",
+    "slug": "brevo-sendinblue",
+    "description": "All-in-one email marketing and CRM platform with AI-powered subject line optimization and send time prediction.",
+    "website": "https://www.brevo.com",
+    "category": "AI Email Marketing Tools",
+    "pricingModel": "free",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Email Marketing",
+      "CRM",
+      "SMS",
+      "AI Subject Lines",
+      "Send Time Optimization",
+      "Automation"
+    ],
+    "integrations": [
+      "Zapier",
+      "Shopify",
+      "WordPress",
+      "WooCommerce"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:29.000Z",
+    "updatedAt": "2026-06-24T20:40:29.000Z"
+  },
+  {
+    "id": 25,
+    "name": "Encharge",
+    "slug": "encharge",
+    "description": "Email marketing platform with AI-powered personalization, dynamic content, and behavioral automation.",
+    "website": "https://encharge.io",
+    "category": "AI Email Marketing Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "AI Personalization",
+      "Dynamic Content",
+      "Behavioral Automation",
+      "Segmentation",
+      "Analytics",
+      "Integrations"
+    ],
+    "integrations": [
+      "Zapier",
+      "Stripe",
+      "Shopify",
+      "WordPress"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:29.000Z",
+    "updatedAt": "2026-06-24T20:40:29.000Z"
+  },
+  {
+    "id": 26,
+    "name": "Active Campaign",
+    "slug": "active-campaign",
+    "description": "Customer experience automation platform with AI-powered email marketing, CRM, and sales automation.",
+    "website": "https://www.activecampaign.com",
+    "category": "AI Email Marketing Tools",
+    "pricingModel": "paid",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Email Marketing",
+      "CRM",
+      "Sales Automation",
+      "AI Recommendations",
+      "Lead Scoring",
+      "Integrations"
+    ],
+    "integrations": [
+      "Zapier",
+      "Shopify",
+      "WordPress",
+      "Slack"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:29.000Z",
+    "updatedAt": "2026-06-24T20:40:29.000Z"
+  },
+  {
+    "id": 27,
+    "name": "Mailchimp",
+    "slug": "mailchimp",
+    "description": "Email marketing and CRM platform with AI-powered recommendations and automation.",
+    "website": "https://mailchimp.com",
+    "category": "AI Email Marketing Tools",
+    "pricingModel": "free",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Email Marketing",
+      "CRM",
+      "AI Recommendations",
+      "Automation",
+      "Analytics",
+      "Integrations"
+    ],
+    "integrations": [
+      "Zapier",
+      "Shopify",
+      "WordPress",
+      "Slack"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:29.000Z",
+    "updatedAt": "2026-06-24T20:40:29.000Z"
+  },
+  {
+    "id": 28,
+    "name": "ConvertKit",
+    "slug": "convertkit",
+    "description": "Email marketing platform designed for creators with AI-powered features and automation.",
+    "website": "https://convertkit.com",
+    "category": "AI Email Marketing Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Email Marketing",
+      "Automation",
+      "Landing Pages",
+      "Subscriber Management",
+      "Analytics"
+    ],
+    "integrations": [
+      "Zapier",
+      "Stripe",
+      "Gumroad"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:29.000Z",
+    "updatedAt": "2026-06-24T20:40:29.000Z"
+  },
+  {
+    "id": 29,
+    "name": "Klaviyo",
+    "slug": "klaviyo",
+    "description": "E-commerce email marketing platform with AI-powered personalization and predictive analytics.",
+    "website": "https://www.klaviyo.com",
+    "category": "AI Email Marketing Tools",
+    "pricingModel": "free",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Email Marketing",
+      "SMS",
+      "AI Personalization",
+      "Predictive Analytics",
+      "Segmentation",
+      "Integrations"
+    ],
+    "integrations": [
+      "Shopify",
+      "WooCommerce",
+      "Zapier",
+      "Slack"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:29.000Z",
+    "updatedAt": "2026-06-24T20:40:29.000Z"
+  },
+  {
+    "id": 30,
+    "name": "Zapier",
+    "slug": "zapier",
+    "description": "Workflow automation platform connecting 7000+ apps with AI-powered automation and Zaps.",
+    "website": "https://zapier.com",
+    "category": "AI Automation Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Workflow Automation",
+      "App Integration",
+      "AI Automation",
+      "Multi-step Zaps",
+      "Analytics"
+    ],
+    "integrations": [
+      "7000+ apps"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:29.000Z",
+    "updatedAt": "2026-06-24T20:40:29.000Z"
+  },
+  {
+    "id": 31,
+    "name": "Make (formerly Integromat)",
+    "slug": "make-formerly-integromat",
+    "description": "Visual workflow automation platform with AI-powered automation and 1000+ app integrations.",
+    "website": "https://www.make.com",
+    "category": "AI Automation Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Visual Workflows",
+      "AI Automation",
+      "App Integration",
+      "Scenario Builder",
+      "Analytics"
+    ],
+    "integrations": [
+      "1000+ apps"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:29.000Z",
+    "updatedAt": "2026-06-24T20:40:29.000Z"
+  },
+  {
+    "id": 32,
+    "name": "Pabbly Connect",
+    "slug": "pabbly-connect",
+    "description": "Affordable workflow automation platform with integration and automation features.",
+    "website": "https://www.pabbly.com/connect",
+    "category": "AI Automation Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Workflow Automation",
+      "App Integration",
+      "Multi-step Workflows",
+      "Analytics"
+    ],
+    "integrations": [
+      "500+ apps"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:30.000Z",
+    "updatedAt": "2026-06-24T20:40:30.000Z"
+  },
+  {
+    "id": 33,
+    "name": "n8n",
+    "slug": "n8n",
+    "description": "Open-source workflow automation platform with AI-powered automation and 400+ integrations.",
+    "website": "https://n8n.io",
+    "category": "AI Automation Tools",
+    "pricingModel": "free",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Workflow Automation",
+      "Open Source",
+      "App Integration",
+      "Self-hosted Option",
+      "AI Automation"
+    ],
+    "integrations": [
+      "400+ apps"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:30.000Z",
+    "updatedAt": "2026-06-24T20:40:30.000Z"
+  },
+  {
+    "id": 34,
+    "name": "HubSpot",
+    "slug": "hubspot",
+    "description": "All-in-one CRM platform with AI-powered sales, marketing, and customer service automation.",
+    "website": "https://www.hubspot.com",
+    "category": "AI Automation Tools",
+    "pricingModel": "free",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "CRM",
+      "Email Marketing",
+      "Sales Automation",
+      "AI Chatbots",
+      "Analytics",
+      "Integrations"
+    ],
+    "integrations": [
+      "Zapier",
+      "Slack",
+      "Google Analytics"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:30.000Z",
+    "updatedAt": "2026-06-24T20:40:30.000Z"
+  },
+  {
+    "id": 35,
+    "name": "Marketo",
+    "slug": "marketo",
+    "description": "Enterprise marketing automation platform with AI-powered lead scoring and personalization.",
+    "website": "https://www.marketo.com",
+    "category": "AI Automation Tools",
+    "pricingModel": "enterprise",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Marketing Automation",
+      "Lead Scoring",
+      "AI Personalization",
+      "Analytics",
+      "Integrations"
+    ],
+    "integrations": [
+      "Salesforce",
+      "Google Analytics",
+      "Slack"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:30.000Z",
+    "updatedAt": "2026-06-24T20:40:30.000Z"
+  },
+  {
+    "id": 36,
+    "name": "Gumloop",
+    "slug": "gumloop",
+    "description": "No-code AI workflow automation platform for building AI-powered automations.",
+    "website": "https://gumloop.com",
+    "category": "AI Automation Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "No-code AI Workflows",
+      "AI Automation",
+      "App Integration",
+      "Custom Logic"
+    ],
+    "integrations": [
+      "Zapier",
+      "Google Drive",
+      "Slack"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:30.000Z",
+    "updatedAt": "2026-06-24T20:40:30.000Z"
+  },
+  {
+    "id": 37,
+    "name": "Buffer",
+    "slug": "buffer",
+    "description": "Social media management platform with AI-powered post generation and scheduling.",
+    "website": "https://buffer.com",
+    "category": "AI Automation Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "AI Post Generation",
+      "Scheduling",
+      "Analytics",
+      "Audience Insights",
+      "Team Collaboration",
+      "Content Calendar"
+    ],
+    "integrations": [
+      "Zapier",
+      "Slack",
+      "Google Analytics"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:30.000Z",
+    "updatedAt": "2026-06-24T20:40:30.000Z"
+  },
+  {
+    "id": 38,
+    "name": "Hootsuite",
+    "slug": "hootsuite",
+    "description": "Social media management platform with OwlyWriter AI for content creation and team collaboration.",
+    "website": "https://www.hootsuite.com",
+    "category": "AI Automation Tools",
+    "pricingModel": "paid",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "OwlyWriter AI",
+      "Social Scheduling",
+      "Analytics",
+      "Team Collaboration",
+      "Approval Workflows",
+      "Integrations"
+    ],
+    "integrations": [
+      "Zapier",
+      "Slack",
+      "Google Analytics",
+      "Salesforce"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:30.000Z",
+    "updatedAt": "2026-06-24T20:40:30.000Z"
+  },
+  {
+    "id": 39,
+    "name": "Sprout Social",
+    "slug": "sprout-social",
+    "description": "Enterprise social media management platform with AI-powered analytics and social listening.",
+    "website": "https://www.sproutsocial.com",
+    "category": "AI Automation Tools",
+    "pricingModel": "paid",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "AI Analytics",
+      "Social Listening",
+      "Sentiment Analysis",
+      "Publishing",
+      "Engagement Tools",
+      "Reporting"
+    ],
+    "integrations": [
+      "Salesforce",
+      "HubSpot",
+      "Slack",
+      "Zapier"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:30.000Z",
+    "updatedAt": "2026-06-24T20:40:30.000Z"
+  },
+  {
+    "id": 40,
+    "name": "Publer",
+    "slug": "publer",
+    "description": "Social media management platform with AI content generation and image creation.",
+    "website": "https://publer.io",
+    "category": "AI Automation Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "AI Content Generation",
+      "Image Generation",
+      "Scheduling",
+      "Analytics",
+      "Team Collaboration",
+      "Video Editing"
+    ],
+    "integrations": [
+      "Zapier",
+      "Google Drive",
+      "Slack"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:30.000Z",
+    "updatedAt": "2026-06-24T20:40:30.000Z"
+  },
+  {
+    "id": 41,
+    "name": "Predis.ai",
+    "slug": "predisai",
+    "description": "AI social media content creation tool for generating posts, captions, and images.",
+    "website": "https://predis.ai",
+    "category": "AI Automation Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "AI Post Creation",
+      "Image Generation",
+      "Video Creation",
+      "Caption Writing",
+      "Goal Tracking",
+      "Analytics"
+    ],
+    "integrations": [
+      "Zapier",
+      "Google Drive"
+    ],
+    "apiAvailable": false,
+    "createdAt": "2026-06-24T20:40:30.000Z",
+    "updatedAt": "2026-06-24T20:40:30.000Z"
+  },
+  {
+    "id": 42,
+    "name": "ContentStudio",
+    "slug": "contentstudio",
+    "description": "Content marketing platform with AI-powered content discovery, curation, and distribution.",
+    "website": "https://www.contentstudio.io",
+    "category": "AI Automation Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Content Discovery",
+      "AI Curation",
+      "Social Publishing",
+      "Team Collaboration",
+      "Analytics",
+      "Influencer Monitoring"
+    ],
+    "integrations": [
+      "Zapier",
+      "Slack",
+      "Google Drive"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:30.000Z",
+    "updatedAt": "2026-06-24T20:40:30.000Z"
+  },
+  {
+    "id": 43,
+    "name": "FeedHive",
+    "slug": "feedhive",
+    "description": "Social media management platform with AI-powered content recycling and conditional posting.",
+    "website": "https://www.feedhive.io",
+    "category": "AI Automation Tools",
+    "pricingModel": "paid",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Content Recycling",
+      "Conditional Posting",
+      "AI Engagement",
+      "Analytics",
+      "Team Collaboration",
+      "Scheduling"
+    ],
+    "integrations": [
+      "Zapier",
+      "Google Drive",
+      "Slack"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:30.000Z",
+    "updatedAt": "2026-06-24T20:40:30.000Z"
+  },
+  {
+    "id": 44,
+    "name": "StoryChief",
+    "slug": "storychief",
+    "description": "Content marketing platform with AI-powered content strategy and multi-channel distribution.",
+    "website": "https://www.storychief.io",
+    "category": "AI Automation Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "AI Content Strategy",
+      "Multi-channel Publishing",
+      "Collaboration",
+      "SEO Optimization",
+      "Analytics",
+      "Integrations"
+    ],
+    "integrations": [
+      "WordPress",
+      "Zapier",
+      "Google Analytics",
+      "Slack"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:30.000Z",
+    "updatedAt": "2026-06-24T20:40:30.000Z"
+  },
+  {
+    "id": 45,
+    "name": "Eclincher",
+    "slug": "eclincher",
+    "description": "Social media management platform with AI-powered engagement automation and sentiment analysis.",
+    "website": "https://www.eclincher.com",
+    "category": "AI Automation Tools",
+    "pricingModel": "paid",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "AI Engagement",
+      "Sentiment Analysis",
+      "Social Listening",
+      "Publishing",
+      "Analytics",
+      "Team Collaboration"
+    ],
+    "integrations": [
+      "Zapier",
+      "Slack",
+      "Google Analytics"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:30.000Z",
+    "updatedAt": "2026-06-24T20:40:30.000Z"
+  },
+  {
+    "id": 46,
+    "name": "HeyGen",
+    "slug": "heygen",
+    "description": "AI video generation platform for creating avatar-based videos for marketing.",
+    "website": "https://www.heygen.com",
+    "category": "AI Automation Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "AI Avatar",
+      "Video Generation",
+      "Text-to-Speech",
+      "Template Library",
+      "Customization",
+      "Export Options"
+    ],
+    "integrations": [
+      "Zapier",
+      "Google Drive"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:30.000Z",
+    "updatedAt": "2026-06-24T20:40:30.000Z"
+  },
+  {
+    "id": 47,
+    "name": "Captions",
+    "slug": "captions",
+    "description": "AI video editing platform for short-form video automation and caption generation.",
+    "website": "https://www.captions.ai",
+    "category": "AI Automation Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Auto Captions",
+      "Video Editing",
+      "Clip Generation",
+      "Subtitle Sync",
+      "Export Options",
+      "Customization"
+    ],
+    "integrations": [
+      "Zapier",
+      "Google Drive"
+    ],
+    "apiAvailable": false,
+    "createdAt": "2026-06-24T20:40:30.000Z",
+    "updatedAt": "2026-06-24T20:40:30.000Z"
+  },
+  {
+    "id": 48,
+    "name": "ElevenLabs",
+    "slug": "elevenlabs",
+    "description": "AI voice and audio platform for generating realistic voiceovers and audio content.",
+    "website": "https://elevenlabs.io",
+    "category": "AI Automation Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Text-to-Speech",
+      "Voice Cloning",
+      "Multilingual Support",
+      "Audio Editing",
+      "API Access",
+      "Customization"
+    ],
+    "integrations": [
+      "Zapier",
+      "Custom APIs"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:30.000Z",
+    "updatedAt": "2026-06-24T20:40:30.000Z"
+  },
+  {
+    "id": 49,
+    "name": "AdCreative.ai",
+    "slug": "adcreativeai",
+    "description": "AI ad creative generation platform for creating high-performing ad variations.",
+    "website": "https://www.adcreative.ai",
+    "category": "AI Automation Tools",
+    "pricingModel": "paid",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Ad Creative Generation",
+      "Variation Testing",
+      "Performance Prediction",
+      "Brand Consistency",
+      "Export Options"
+    ],
+    "integrations": [
+      "Facebook Ads",
+      "Google Ads",
+      "Zapier"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:31.000Z",
+    "updatedAt": "2026-06-24T20:40:31.000Z"
+  },
+  {
+    "id": 50,
+    "name": "Weblium",
+    "slug": "weblium",
+    "description": "AI website builder for creating websites and landing pages without coding.",
+    "website": "https://www.weblium.com",
+    "category": "AI Automation Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Website Builder",
+      "Landing Pages",
+      "AI Design",
+      "SEO Tools",
+      "Analytics",
+      "Integrations"
+    ],
+    "integrations": [
+      "Zapier",
+      "Google Analytics",
+      "Mailchimp"
+    ],
+    "apiAvailable": false,
+    "createdAt": "2026-06-24T20:40:31.000Z",
+    "updatedAt": "2026-06-24T20:40:31.000Z"
+  },
+  {
+    "id": 51,
+    "name": "Mutiny",
+    "slug": "mutiny",
+    "description": "Website personalization platform with AI-powered real-time visitor targeting.",
+    "website": "https://www.mutiny.com",
+    "category": "AI Automation Tools",
+    "pricingModel": "paid",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Website Personalization",
+      "Real-time Targeting",
+      "AI Segmentation",
+      "Analytics",
+      "Integrations",
+      "A/B Testing"
+    ],
+    "integrations": [
+      "Salesforce",
+      "HubSpot",
+      "Google Analytics"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:31.000Z",
+    "updatedAt": "2026-06-24T20:40:31.000Z"
+  },
+  {
+    "id": 52,
+    "name": "Brand24",
+    "slug": "brand24",
+    "description": "Brand monitoring platform with AI-powered sentiment analysis and social listening.",
+    "website": "https://brand24.com",
+    "category": "AI Automation Tools",
+    "pricingModel": "paid",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Brand Monitoring",
+      "Sentiment Analysis",
+      "Social Listening",
+      "Influencer Detection",
+      "Analytics",
+      "Alerts"
+    ],
+    "integrations": [
+      "Zapier",
+      "Slack",
+      "Google Analytics"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:31.000Z",
+    "updatedAt": "2026-06-24T20:40:31.000Z"
+  },
+  {
+    "id": 53,
+    "name": "MarketMuse",
+    "slug": "marketmuse",
+    "description": "AI content strategy platform for building topical authority and content planning.",
+    "website": "https://www.marketmuse.com",
+    "category": "AI SEO Tools",
+    "pricingModel": "enterprise",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Content Audit",
+      "Topic Modeling",
+      "Content Briefs",
+      "Competitive Analysis",
+      "Gap Analysis",
+      "Recommendations"
+    ],
+    "integrations": [
+      "Google Search Console",
+      "Google Analytics"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:31.000Z",
+    "updatedAt": "2026-06-24T20:40:31.000Z"
+  },
+  {
+    "id": 54,
+    "name": "Scalenut",
+    "slug": "scalenut",
+    "description": "AI-powered SEO and content platform for keyword research, content optimization, and planning.",
+    "website": "https://www.scalenut.com",
+    "category": "AI SEO Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Keyword Research",
+      "Content Optimization",
+      "SEO Audit",
+      "Content Planning",
+      "AI Writing",
+      "Analytics"
+    ],
+    "integrations": [
+      "Google Search Console",
+      "Google Analytics",
+      "Zapier"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:31.000Z",
+    "updatedAt": "2026-06-24T20:40:31.000Z"
+  },
+  {
+    "id": 55,
+    "name": "Pitchbox",
+    "slug": "pitchbox",
+    "description": "Outreach and link building platform with AI-powered personalization and tracking.",
+    "website": "https://pitchbox.com",
+    "category": "AI SEO Tools",
+    "pricingModel": "paid",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Influencer Discovery",
+      "Outreach Automation",
+      "AI Personalization",
+      "Link Tracking",
+      "Analytics",
+      "CRM Integration"
+    ],
+    "integrations": [
+      "Zapier",
+      "Google Sheets",
+      "Slack"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:31.000Z",
+    "updatedAt": "2026-06-24T20:40:31.000Z"
+  },
+  {
+    "id": 56,
+    "name": "Ranking Raccoon",
+    "slug": "ranking-raccoon",
+    "description": "Backlink exchange platform with community-based link building.",
+    "website": "https://rankingraccoon.com",
+    "category": "AI SEO Tools",
+    "pricingModel": "free",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Backlink Exchange",
+      "Community Moderation",
+      "Link Quality",
+      "Analytics",
+      "Reporting"
+    ],
+    "integrations": [
+      "Google Search Console"
+    ],
+    "apiAvailable": false,
+    "createdAt": "2026-06-24T20:40:31.000Z",
+    "updatedAt": "2026-06-24T20:40:31.000Z"
+  },
+  {
+    "id": 57,
+    "name": "Indexly",
+    "slug": "indexly",
+    "description": "Indexing automation platform for faster page indexing in search engines.",
+    "website": "https://indexly.io",
+    "category": "AI SEO Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Automatic Indexing",
+      "Google Search Console Integration",
+      "Monitoring",
+      "Alerts",
+      "Analytics"
+    ],
+    "integrations": [
+      "Google Search Console",
+      "Zapier"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:31.000Z",
+    "updatedAt": "2026-06-24T20:40:31.000Z"
+  },
+  {
+    "id": 58,
+    "name": "Writer.com",
+    "slug": "writercom",
+    "description": "Enterprise AI writing platform with brand voice consistency and governance features.",
+    "website": "https://writer.com",
+    "category": "AI Copywriting Tools",
+    "pricingModel": "enterprise",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Brand Voice",
+      "Content Generation",
+      "Governance",
+      "Team Collaboration",
+      "Integrations",
+      "API Access"
+    ],
+    "integrations": [
+      "Salesforce",
+      "HubSpot",
+      "Google Drive"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:31.000Z",
+    "updatedAt": "2026-06-24T20:40:31.000Z"
+  },
+  {
+    "id": 59,
+    "name": "Grammarly",
+    "slug": "grammarly",
+    "description": "AI writing assistant for grammar checking, tone detection, and writing suggestions.",
+    "website": "https://www.grammarly.com",
+    "category": "AI Copywriting Tools",
+    "pricingModel": "free",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Grammar Check",
+      "Tone Detection",
+      "Writing Suggestions",
+      "Plagiarism Check",
+      "Browser Extension",
+      "API"
+    ],
+    "integrations": [
+      "Google Docs",
+      "Gmail",
+      "Slack"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:31.000Z",
+    "updatedAt": "2026-06-24T20:40:31.000Z"
+  },
+  {
+    "id": 60,
+    "name": "QuillBot",
+    "slug": "quillbot",
+    "description": "AI paraphrasing and writing tool for content rewriting and plagiarism reduction.",
+    "website": "https://quillbot.com",
+    "category": "AI Copywriting Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Paraphrasing",
+      "Grammar Check",
+      "Plagiarism Checker",
+      "Citation Generator",
+      "Writing Modes",
+      "Browser Extension"
+    ],
+    "integrations": [
+      "Google Docs",
+      "Microsoft Word"
+    ],
+    "apiAvailable": false,
+    "createdAt": "2026-06-24T20:40:31.000Z",
+    "updatedAt": "2026-06-24T20:40:31.000Z"
+  },
+  {
+    "id": 61,
+    "name": "Wordtune",
+    "slug": "wordtune",
+    "description": "AI writing assistant for rewriting and rephrasing content with tone options.",
+    "website": "https://www.wordtune.com",
+    "category": "AI Copywriting Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Text Rewriting",
+      "Tone Options",
+      "Shortening",
+      "Expanding",
+      "Formality Control",
+      "Browser Extension"
+    ],
+    "integrations": [
+      "Google Docs",
+      "Microsoft Word",
+      "Gmail"
+    ],
+    "apiAvailable": false,
+    "createdAt": "2026-06-24T20:40:31.000Z",
+    "updatedAt": "2026-06-24T20:40:31.000Z"
+  },
+  {
+    "id": 62,
+    "name": "Copysmith",
+    "slug": "copysmith",
+    "description": "AI copywriting tool for product descriptions, ads, and marketing copy.",
+    "website": "https://www.copysmith.ai",
+    "category": "AI Copywriting Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Product Descriptions",
+      "Ad Copy",
+      "Email Copy",
+      "Social Media Posts",
+      "SEO Optimization",
+      "Brand Voice"
+    ],
+    "integrations": [
+      "Shopify",
+      "WooCommerce",
+      "Zapier"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:31.000Z",
+    "updatedAt": "2026-06-24T20:40:31.000Z"
+  },
+  {
+    "id": 63,
+    "name": "Sudowrite",
+    "slug": "sudowrite",
+    "description": "AI writing tool for creative writing, storytelling, and long-form content.",
+    "website": "https://www.sudowrite.com",
+    "category": "AI Copywriting Tools",
+    "pricingModel": "paid",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Creative Writing",
+      "Storytelling",
+      "Character Development",
+      "Editing",
+      "Collaboration",
+      "Export Options"
+    ],
+    "integrations": [
+      "Google Drive",
+      "Dropbox"
+    ],
+    "apiAvailable": false,
+    "createdAt": "2026-06-24T20:40:31.000Z",
+    "updatedAt": "2026-06-24T20:40:31.000Z"
+  },
+  {
+    "id": 64,
+    "name": "Descript",
+    "slug": "descript",
+    "description": "AI-powered video and podcast editing platform with transcription and editing.",
+    "website": "https://www.descript.com",
+    "category": "AI Automation Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Transcription",
+      "Video Editing",
+      "Audio Editing",
+      "Collaboration",
+      "Publishing",
+      "Analytics"
+    ],
+    "integrations": [
+      "Zapier",
+      "Google Drive",
+      "Slack"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:31.000Z",
+    "updatedAt": "2026-06-24T20:40:31.000Z"
+  },
+  {
+    "id": 65,
+    "name": "Synthesia",
+    "slug": "synthesia",
+    "description": "AI video generation platform for creating videos from text with AI avatars.",
+    "website": "https://www.synthesia.io",
+    "category": "AI Automation Tools",
+    "pricingModel": "paid",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "AI Avatar",
+      "Text-to-Video",
+      "Multi-language",
+      "Template Library",
+      "Custom Branding",
+      "Export Options"
+    ],
+    "integrations": [
+      "Zapier",
+      "Google Drive"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:31.000Z",
+    "updatedAt": "2026-06-24T20:40:31.000Z"
+  },
+  {
+    "id": 66,
+    "name": "Runway",
+    "slug": "runway",
+    "description": "AI video editing and generation platform with creative tools.",
+    "website": "https://runwayml.com",
+    "category": "AI Automation Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Video Editing",
+      "AI Effects",
+      "Green Screen",
+      "Motion Tracking",
+      "Export Options",
+      "Collaboration"
+    ],
+    "integrations": [
+      "Google Drive",
+      "Dropbox"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:31.000Z",
+    "updatedAt": "2026-06-24T20:40:31.000Z"
+  },
+  {
+    "id": 67,
+    "name": "Canva",
+    "slug": "canva",
+    "description": "Design platform with AI-powered design suggestions and template library.",
+    "website": "https://www.canva.com",
+    "category": "AI Automation Tools",
+    "pricingModel": "free",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Design Templates",
+      "AI Design",
+      "Photo Editor",
+      "Brand Kit",
+      "Collaboration",
+      "Export Options"
+    ],
+    "integrations": [
+      "Zapier",
+      "Google Drive",
+      "Slack"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:32.000Z",
+    "updatedAt": "2026-06-24T20:40:32.000Z"
+  },
+  {
+    "id": 68,
+    "name": "Figma",
+    "slug": "figma",
+    "description": "Collaborative design platform with AI-powered design suggestions and prototyping.",
+    "website": "https://www.figma.com",
+    "category": "AI Automation Tools",
+    "pricingModel": "free",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Design Tools",
+      "Prototyping",
+      "Collaboration",
+      "AI Suggestions",
+      "Component Library",
+      "Export Options"
+    ],
+    "integrations": [
+      "Zapier",
+      "Slack",
+      "Google Drive"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:32.000Z",
+    "updatedAt": "2026-06-24T20:40:32.000Z"
+  },
+  {
+    "id": 69,
+    "name": "Midjourney",
+    "slug": "midjourney",
+    "description": "AI image generation platform for creating high-quality images from text prompts.",
+    "website": "https://www.midjourney.com",
+    "category": "AI Automation Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Image Generation",
+      "Style Control",
+      "Upscaling",
+      "Variations",
+      "Discord Integration",
+      "API Access"
+    ],
+    "integrations": [
+      "Discord",
+      "Custom APIs"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:32.000Z",
+    "updatedAt": "2026-06-24T20:40:32.000Z"
+  },
+  {
+    "id": 70,
+    "name": "DALL-E 3",
+    "slug": "dall-e-3",
+    "description": "AI image generation platform by OpenAI for creating images from text descriptions.",
+    "website": "https://openai.com/dall-e-3",
+    "category": "AI Automation Tools",
+    "pricingModel": "paid",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Image Generation",
+      "Text-to-Image",
+      "Editing",
+      "Variations",
+      "API Access"
+    ],
+    "integrations": [
+      "ChatGPT",
+      "Custom APIs"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:32.000Z",
+    "updatedAt": "2026-06-24T20:40:32.000Z"
+  },
+  {
+    "id": 71,
+    "name": "Stable Diffusion",
+    "slug": "stable-diffusion",
+    "description": "Open-source AI image generation model for creating images from text prompts.",
+    "website": "https://stability.ai",
+    "category": "AI Automation Tools",
+    "pricingModel": "free",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Image Generation",
+      "Text-to-Image",
+      "Open Source",
+      "API Access",
+      "Customization"
+    ],
+    "integrations": [
+      "Custom APIs",
+      "Hugging Face"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:32.000Z",
+    "updatedAt": "2026-06-24T20:40:32.000Z"
+  },
+  {
+    "id": 72,
+    "name": "Perplexity AI",
+    "slug": "perplexity-ai",
+    "description": "AI search engine for research with real-time web access and citations.",
+    "website": "https://www.perplexity.ai",
+    "category": "AI SEO Tools",
+    "pricingModel": "free",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "AI Search",
+      "Real-time Web",
+      "Citations",
+      "Research",
+      "Collections",
+      "API Access"
+    ],
+    "integrations": [
+      "Custom APIs"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:32.000Z",
+    "updatedAt": "2026-06-24T20:40:32.000Z"
+  },
+  {
+    "id": 73,
+    "name": "Notion AI",
+    "slug": "notion-ai",
+    "description": "AI-powered workspace with writing assistance and content generation.",
+    "website": "https://www.notion.so/product/ai",
+    "category": "AI Automation Tools",
+    "pricingModel": "paid",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "AI Writing",
+      "Content Generation",
+      "Summarization",
+      "Translation",
+      "Workspace Integration"
+    ],
+    "integrations": [
+      "Zapier",
+      "Google Drive",
+      "Slack"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:32.000Z",
+    "updatedAt": "2026-06-24T20:40:32.000Z"
+  },
+  {
+    "id": 74,
+    "name": "Monday.com",
+    "slug": "mondaycom",
+    "description": "Work management platform with AI-powered automation and project tracking.",
+    "website": "https://monday.com",
+    "category": "AI Automation Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Project Management",
+      "AI Automation",
+      "Workflow Automation",
+      "Integrations",
+      "Analytics",
+      "Collaboration"
+    ],
+    "integrations": [
+      "Zapier",
+      "Slack",
+      "Google Drive"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:32.000Z",
+    "updatedAt": "2026-06-24T20:40:32.000Z"
+  },
+  {
+    "id": 75,
+    "name": "Asana",
+    "slug": "asana",
+    "description": "Project management platform with AI-powered task automation and insights.",
+    "website": "https://asana.com",
+    "category": "AI Automation Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Project Management",
+      "AI Automation",
+      "Task Tracking",
+      "Timeline View",
+      "Integrations",
+      "Analytics"
+    ],
+    "integrations": [
+      "Zapier",
+      "Slack",
+      "Google Drive"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:32.000Z",
+    "updatedAt": "2026-06-24T20:40:32.000Z"
+  },
+  {
+    "id": 76,
+    "name": "Slack",
+    "slug": "slack",
+    "description": "Team communication platform with AI-powered search and automation.",
+    "website": "https://slack.com",
+    "category": "AI Automation Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Team Chat",
+      "AI Search",
+      "Automation",
+      "Integrations",
+      "File Sharing",
+      "Workflows"
+    ],
+    "integrations": [
+      "2000+ apps",
+      "Zapier"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:32.000Z",
+    "updatedAt": "2026-06-24T20:40:32.000Z"
+  },
+  {
+    "id": 77,
+    "name": "Microsoft Teams",
+    "slug": "microsoft-teams",
+    "description": "Team collaboration platform with AI-powered meeting transcription and insights.",
+    "website": "https://www.microsoft.com/teams",
+    "category": "AI Automation Tools",
+    "pricingModel": "free",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Team Chat",
+      "Video Meetings",
+      "AI Transcription",
+      "File Sharing",
+      "Integrations",
+      "Workflows"
+    ],
+    "integrations": [
+      "Microsoft 365",
+      "Zapier"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:32.000Z",
+    "updatedAt": "2026-06-24T20:40:32.000Z"
+  },
+  {
+    "id": 78,
+    "name": "Salesforce Einstein",
+    "slug": "salesforce-einstein",
+    "description": "AI-powered CRM platform with predictive analytics and recommendations.",
+    "website": "https://www.salesforce.com/products/einstein/overview/",
+    "category": "AI Automation Tools",
+    "pricingModel": "enterprise",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "CRM",
+      "AI Predictions",
+      "Lead Scoring",
+      "Recommendations",
+      "Automation",
+      "Analytics"
+    ],
+    "integrations": [
+      "Zapier",
+      "Google Analytics",
+      "Slack"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:32.000Z",
+    "updatedAt": "2026-06-24T20:40:32.000Z"
+  },
+  {
+    "id": 79,
+    "name": "Pipedrive",
+    "slug": "pipedrive",
+    "description": "Sales CRM platform with AI-powered lead scoring and sales insights.",
+    "website": "https://www.pipedrive.com",
+    "category": "AI Automation Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "CRM",
+      "AI Lead Scoring",
+      "Sales Pipeline",
+      "Automation",
+      "Analytics",
+      "Integrations"
+    ],
+    "integrations": [
+      "Zapier",
+      "Gmail",
+      "Slack"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:32.000Z",
+    "updatedAt": "2026-06-24T20:40:32.000Z"
+  },
+  {
+    "id": 80,
+    "name": "Freshworks CRM",
+    "slug": "freshworks-crm",
+    "description": "AI-powered CRM platform for sales, marketing, and customer service.",
+    "website": "https://www.freshworks.com/crm",
+    "category": "AI Automation Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "CRM",
+      "AI Insights",
+      "Sales Automation",
+      "Marketing Automation",
+      "Analytics",
+      "Integrations"
+    ],
+    "integrations": [
+      "Zapier",
+      "Slack",
+      "Google Drive"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:32.000Z",
+    "updatedAt": "2026-06-24T20:40:32.000Z"
+  },
+  {
+    "id": 81,
+    "name": "Intercom",
+    "slug": "intercom",
+    "description": "Customer communication platform with AI-powered chatbots and messaging.",
+    "website": "https://www.intercom.com",
+    "category": "AI Automation Tools",
+    "pricingModel": "paid",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Chatbots",
+      "Messaging",
+      "AI Automation",
+      "Help Center",
+      "Analytics",
+      "Integrations"
+    ],
+    "integrations": [
+      "Zapier",
+      "Slack",
+      "Salesforce"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:32.000Z",
+    "updatedAt": "2026-06-24T20:40:32.000Z"
+  },
+  {
+    "id": 82,
+    "name": "Zendesk",
+    "slug": "zendesk",
+    "description": "Customer service platform with AI-powered support automation.",
+    "website": "https://www.zendesk.com",
+    "category": "AI Automation Tools",
+    "pricingModel": "paid",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Ticketing",
+      "AI Support",
+      "Knowledge Base",
+      "Automation",
+      "Analytics",
+      "Integrations"
+    ],
+    "integrations": [
+      "Zapier",
+      "Slack",
+      "Salesforce"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:32.000Z",
+    "updatedAt": "2026-06-24T20:40:32.000Z"
+  },
+  {
+    "id": 83,
+    "name": "Drift",
+    "slug": "drift",
+    "description": "Conversational marketing platform with AI-powered chatbots and live chat.",
+    "website": "https://www.drift.com",
+    "category": "AI Automation Tools",
+    "pricingModel": "paid",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Chatbots",
+      "Live Chat",
+      "AI Conversations",
+      "Lead Qualification",
+      "Analytics",
+      "Integrations"
+    ],
+    "integrations": [
+      "Salesforce",
+      "HubSpot",
+      "Zapier"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:32.000Z",
+    "updatedAt": "2026-06-24T20:40:32.000Z"
+  },
+  {
+    "id": 84,
+    "name": "Typeform",
+    "slug": "typeform",
+    "description": "Form and survey platform with AI-powered form creation and analysis.",
+    "website": "https://www.typeform.com",
+    "category": "AI Automation Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Form Builder",
+      "AI Forms",
+      "Surveys",
+      "Analytics",
+      "Integrations",
+      "Automation"
+    ],
+    "integrations": [
+      "Zapier",
+      "Slack",
+      "Google Sheets"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:33.000Z",
+    "updatedAt": "2026-06-24T20:40:33.000Z"
+  },
+  {
+    "id": 85,
+    "name": "Google Analytics 4",
+    "slug": "google-analytics-4",
+    "description": "Web analytics platform with AI-powered insights and predictive analytics.",
+    "website": "https://analytics.google.com",
+    "category": "AI Automation Tools",
+    "pricingModel": "enterprise",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Web Analytics",
+      "AI Insights",
+      "Predictive Analytics",
+      "Conversion Tracking",
+      "Integrations"
+    ],
+    "integrations": [
+      "Google Ads",
+      "Google Search Console",
+      "Zapier"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:33.000Z",
+    "updatedAt": "2026-06-24T20:40:33.000Z"
+  },
+  {
+    "id": 86,
+    "name": "Mixpanel",
+    "slug": "mixpanel",
+    "description": "Product analytics platform with AI-powered user behavior analysis.",
+    "website": "https://mixpanel.com",
+    "category": "AI Automation Tools",
+    "pricingModel": "enterprise",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "User Analytics",
+      "AI Insights",
+      "Cohort Analysis",
+      "Funnel Analysis",
+      "Integrations"
+    ],
+    "integrations": [
+      "Zapier",
+      "Slack",
+      "Segment"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:33.000Z",
+    "updatedAt": "2026-06-24T20:40:33.000Z"
+  },
+  {
+    "id": 87,
+    "name": "Amplitude",
+    "slug": "amplitude",
+    "description": "Digital analytics platform with AI-powered insights and recommendations.",
+    "website": "https://amplitude.com",
+    "category": "AI Automation Tools",
+    "pricingModel": "enterprise",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Product Analytics",
+      "AI Insights",
+      "Cohort Analysis",
+      "Retention Analysis",
+      "Integrations"
+    ],
+    "integrations": [
+      "Zapier",
+      "Slack",
+      "Segment"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:33.000Z",
+    "updatedAt": "2026-06-24T20:40:33.000Z"
+  },
+  {
+    "id": 88,
+    "name": "Segment",
+    "slug": "segment",
+    "description": "Customer data platform with AI-powered data collection and integration.",
+    "website": "https://segment.com",
+    "category": "AI Automation Tools",
+    "pricingModel": "enterprise",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Data Collection",
+      "Data Integration",
+      "AI Insights",
+      "Audience Segmentation",
+      "Integrations"
+    ],
+    "integrations": [
+      "500+ integrations",
+      "Zapier"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:33.000Z",
+    "updatedAt": "2026-06-24T20:40:33.000Z"
+  },
+  {
+    "id": 89,
+    "name": "Metricool",
+    "slug": "metricool",
+    "description": "Social media analytics platform with AI-powered insights and recommendations.",
+    "website": "https://metricool.com",
+    "category": "AI Automation Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Social Analytics",
+      "AI Insights",
+      "Content Calendar",
+      "Scheduling",
+      "Integrations"
+    ],
+    "integrations": [
+      "Zapier",
+      "Slack",
+      "Google Drive"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:33.000Z",
+    "updatedAt": "2026-06-24T20:40:33.000Z"
+  },
+  {
+    "id": 90,
+    "name": "Alai",
+    "slug": "alai",
+    "description": "Marketing presentation platform with AI-powered report generation.",
+    "website": "https://getalai.com",
+    "category": "AI Automation Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Presentation Builder",
+      "AI Reports",
+      "Campaign Reports",
+      "Client Decks",
+      "Integrations"
+    ],
+    "integrations": [
+      "Google Analytics",
+      "Zapier"
+    ],
+    "apiAvailable": false,
+    "createdAt": "2026-06-24T20:40:33.000Z",
+    "updatedAt": "2026-06-24T20:40:33.000Z"
+  },
+  {
+    "id": 91,
+    "name": "GetResponse",
+    "slug": "getresponse",
+    "description": "Email marketing and automation platform with AI-powered email writer, autoresponder, and landing page builder.",
+    "website": "https://www.getresponse.com",
+    "category": "AI Email Marketing Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "AI Email Writer",
+      "Autoresponder",
+      "Landing Pages",
+      "Webinar Platform",
+      "SMS Marketing",
+      "Ecommerce Integration"
+    ],
+    "integrations": [
+      "Shopify",
+      "WooCommerce",
+      "WordPress",
+      "Zapier"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:33.000Z",
+    "updatedAt": "2026-06-24T20:40:33.000Z"
+  },
+  {
+    "id": 92,
+    "name": "Omnisend",
+    "slug": "omnisend",
+    "description": "Omnichannel marketing automation platform with AI-powered email, SMS, and push notifications.",
+    "website": "https://www.omnisend.com",
+    "category": "AI Email Marketing Tools",
+    "pricingModel": "free",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Email Marketing",
+      "SMS",
+      "Push Notifications",
+      "AI Recommendations",
+      "Automation",
+      "Analytics"
+    ],
+    "integrations": [
+      "Shopify",
+      "WooCommerce",
+      "Zapier",
+      "Slack"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:33.000Z",
+    "updatedAt": "2026-06-24T20:40:33.000Z"
+  },
+  {
+    "id": 93,
+    "name": "Snov.io",
+    "slug": "snovio",
+    "description": "All-in-one sales platform with AI email builder, lead database, and CRM.",
+    "website": "https://snov.io",
+    "category": "AI Email Marketing Tools",
+    "pricingModel": "free",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "AI Email Builder",
+      "Lead Database",
+      "Email Verification",
+      "CRM",
+      "Sentiment Analysis",
+      "Lead Scoring"
+    ],
+    "integrations": [
+      "HubSpot",
+      "Pipedrive",
+      "Zapier",
+      "Slack"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:40:33.000Z",
+    "updatedAt": "2026-06-24T20:40:33.000Z"
+  }
+]
