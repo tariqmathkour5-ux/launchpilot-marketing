@@ -1,6 +1,6 @@
-import { eq } from "drizzle-orm";
+import { eq, desc } from "drizzle-orm";
 import { drizzle } from "drizzle-orm/mysql2";
-import { InsertUser, users } from "../drizzle/schema";
+import { InsertUser, users, categories, tools, blogPosts, contactMessages, Tool, InsertTool, BlogPost, InsertBlogPost, ContactMessage, InsertContactMessage } from "../drizzle/schema";
 import { ENV } from './_core/env';
 
 let _db: ReturnType<typeof drizzle> | null = null;
@@ -89,4 +89,75 @@ export async function getUserByOpenId(openId: string) {
   return result.length > 0 ? result[0] : undefined;
 }
 
-// TODO: add feature queries here as your schema grows.
+// Categories queries
+export async function getCategories() {
+  const db = await getDb();
+  if (!db) return [];
+  return db.select().from(categories).where(eq(categories.isActive, true)).orderBy(categories.displayOrder);
+}
+
+export async function getCategoryBySlug(slug: string) {
+  const db = await getDb();
+  if (!db) return undefined;
+  const result = await db.select().from(categories).where(eq(categories.slug, slug)).limit(1);
+  return result.length > 0 ? result[0] : undefined;
+}
+
+// Tools queries
+export async function getTools(limit?: number) {
+  const db = await getDb();
+  if (!db) return [];
+  const query = db.select().from(tools).where(eq(tools.isVerified, true));
+  if (limit) return query.limit(limit);
+  return query;
+}
+
+export async function getToolsByCategory(categoryId: number) {
+  const db = await getDb();
+  if (!db) return [];
+  return db.select().from(tools).where(eq(tools.categoryId, categoryId));
+}
+
+export async function getToolBySlug(slug: string) {
+  const db = await getDb();
+  if (!db) return undefined;
+  const result = await db.select().from(tools).where(eq(tools.slug, slug)).limit(1);
+  return result.length > 0 ? result[0] : undefined;
+}
+
+export async function createTool(tool: InsertTool) {
+  const db = await getDb();
+  if (!db) return null;
+  const result = await db.insert(tools).values(tool);
+  return result;
+}
+
+// Blog posts queries
+export async function getPublishedBlogPosts(limit?: number) {
+  const db = await getDb();
+  if (!db) return [];
+  const query = db.select().from(blogPosts).where(eq(blogPosts.status, 'published')).orderBy(desc(blogPosts.publishedAt));
+  if (limit) return query.limit(limit);
+  return query;
+}
+
+export async function getBlogPostBySlug(slug: string) {
+  const db = await getDb();
+  if (!db) return undefined;
+  const result = await db.select().from(blogPosts).where(eq(blogPosts.slug, slug)).limit(1);
+  return result.length > 0 ? result[0] : undefined;
+}
+
+// Contact messages queries
+export async function createContactMessage(message: InsertContactMessage) {
+  const db = await getDb();
+  if (!db) return null;
+  const result = await db.insert(contactMessages).values(message);
+  return result;
+}
+
+export async function getContactMessages() {
+  const db = await getDb();
+  if (!db) return [];
+  return db.select().from(contactMessages).where(eq(contactMessages.status, 'new')).orderBy(desc(contactMessages.createdAt));
+}
