@@ -2467,5 +2467,181 @@
     "apiAvailable": true,
     "createdAt": "2026-06-24T20:40:33.000Z",
     "updatedAt": "2026-06-24T20:40:33.000Z"
+  },
+  {
+    "id": 30096,
+    "name": "Blaze.ai",
+    "slug": "blazeai",
+    "description": "AI-powered platform for creating and distributing marketing content across multiple channels with automated optimization.",
+    "website": "https://www.blaze.ai",
+    "category": "AI Automation Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Multi-channel Publishing",
+      "Content Creation",
+      "Performance Analytics",
+      "Brand Management",
+      "AI Copywriting",
+      "Scheduling"
+    ],
+    "integrations": [
+      "Facebook",
+      "Instagram",
+      "LinkedIn",
+      "Twitter",
+      "Google Ads",
+      "Zapier"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:46:19.000Z",
+    "updatedAt": "2026-06-24T20:46:19.000Z"
+  },
+  {
+    "id": 30097,
+    "name": "Optimove",
+    "slug": "optimove",
+    "description": "AI-powered customer orchestration platform for personalized multichannel marketing automation and customer journey optimization.",
+    "website": "https://www.optimove.com",
+    "category": "AI Email Marketing Tools",
+    "pricingModel": "enterprise",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Customer Orchestration",
+      "Predictive Analytics",
+      "Multichannel Campaigns",
+      "Real-time Personalization",
+      "Lifecycle Marketing",
+      "Customer Intelligence"
+    ],
+    "integrations": [
+      "Salesforce",
+      "HubSpot",
+      "Shopify",
+      "Segment",
+      "Google Analytics"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:46:19.000Z",
+    "updatedAt": "2026-06-24T20:46:19.000Z"
+  },
+  {
+    "id": 30098,
+    "name": "Ortto",
+    "slug": "ortto",
+    "description": "AI-powered customer data and marketing automation platform for personalized email campaigns and customer insights.",
+    "website": "https://www.ortto.com",
+    "category": "AI Email Marketing Tools",
+    "pricingModel": "freemium",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Customer Data Platform",
+      "Email Marketing",
+      "SMS Marketing",
+      "Segmentation",
+      "Predictive Analytics",
+      "Automation Workflows"
+    ],
+    "integrations": [
+      "Shopify",
+      "Stripe",
+      "Slack",
+      "Zapier",
+      "Google Analytics"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:46:19.000Z",
+    "updatedAt": "2026-06-24T20:46:19.000Z"
+  },
+  {
+    "id": 30099,
+    "name": "Algolia",
+    "slug": "algolia",
+    "description": "AI-powered search and recommendation API platform for delivering fast, relevant search experiences and personalized recommendations.",
+    "website": "https://www.algolia.com",
+    "category": "AI Automation Tools",
+    "pricingModel": "enterprise",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Search API",
+      "Recommendation Engine",
+      "Faceted Search",
+      "Analytics",
+      "A/B Testing",
+      "Personalization"
+    ],
+    "integrations": [
+      "Shopify",
+      "WordPress",
+      "Magento",
+      "Segment",
+      "Zapier"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:46:19.000Z",
+    "updatedAt": "2026-06-24T20:46:19.000Z"
+  },
+  {
+    "id": 30100,
+    "name": "Canto",
+    "slug": "canto",
+    "description": "AI-powered digital asset management platform for organizing, searching, and distributing brand content across marketing teams.",
+    "website": "https://www.canto.com",
+    "category": "AI Automation Tools",
+    "pricingModel": "paid",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "AI Asset Management",
+      "Smart Tagging",
+      "Visual Search",
+      "Workflow Automation",
+      "Brand Governance",
+      "Content Distribution"
+    ],
+    "integrations": [
+      "Adobe Creative Cloud",
+      "Slack",
+      "Zapier",
+      "Salesforce",
+      "HubSpot"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-24T20:46:19.000Z",
+    "updatedAt": "2026-06-24T20:46:19.000Z"
+  },
+  {
+    "id": 60094,
+    "name": "Tactiq",
+    "slug": "tactiq",
+    "description": "AI-powered meeting transcription and note-taking tool for capturing and analyzing conversations in real-time.",
+    "website": "https://www.tactiq.io",
+    "category": "AI Automation Tools",
+    "pricingModel": "free",
+    "isVerified": true,
+    "rating": "4.50",
+    "features": [
+      "Real-time Transcription",
+      "Meeting Summaries",
+      "Action Items",
+      "Speaker Identification",
+      "Search & Analytics",
+      "Integration with CRM"
+    ],
+    "integrations": [
+      "Google Meet",
+      "Zoom",
+      "Microsoft Teams",
+      "Slack",
+      "Salesforce",
+      "HubSpot"
+    ],
+    "apiAvailable": true,
+    "createdAt": "2026-06-25T17:45:48.000Z",
+    "updatedAt": "2026-06-25T17:45:48.000Z"
   }
 ]
