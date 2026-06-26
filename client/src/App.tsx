@@ -7,6 +7,10 @@ import { ThemeProvider } from "./contexts/ThemeContext";
 import Home from "./pages/Home";
 import Categories from "./pages/Categories";
 import Database from "./pages/Database";
+import DatabaseSearch from "./pages/DatabaseSearch";
+import DatabaseSearchSEO from "./pages/DatabaseSearchSEO";
+import ToolDetail from "./pages/ToolDetail";
+import CategoryDetail from "./pages/CategoryDetail";
 import Blog from "./pages/Blog";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
@@ -23,6 +27,9 @@ function Router() {
           <Route path={"/"} component={Home} />
           <Route path={"/categories"} component={Categories} />
           <Route path={"/database"} component={Database} />
+          <Route path={"/database/search"} component={DatabaseSearchSEO} />
+          <Route path={"/category/:slug"} component={CategoryDetail} />
+          <Route path={"/tool/:slug"} component={ToolDetail} />
           <Route path={"/blog"} component={Blog} />
           <Route path={"/about"} component={About} />
           <Route path={"/contact"} component={Contact} />

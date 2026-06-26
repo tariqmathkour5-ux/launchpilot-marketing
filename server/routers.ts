@@ -5,6 +5,7 @@ import { publicProcedure, router, protectedProcedure } from "./_core/trpc";
 import { z } from "zod";
 import { getCategories, getCategoryBySlug, getTools, getToolsByCategory, getToolBySlug, createTool, getPublishedBlogPosts, getBlogPostBySlug, createContactMessage, getContactMessages } from "./db";
 import { importExportRouter } from "./import-export";
+import { searchTools, searchInputSchema, getAllFeatures, getPricingModelDistribution, getCategoryStats } from "./search";
 
 export const appRouter = router({
   system: systemRouter,
@@ -110,6 +111,27 @@ export const appRouter = router({
     
     list: protectedProcedure.query(async () => {
       return getContactMessages();
+    }),
+  }),
+
+  // Search and Discovery router
+  search: router({
+    tools: publicProcedure
+      .input(searchInputSchema)
+      .query(async ({ input }) => {
+        return searchTools(input);
+      }),
+    
+    features: publicProcedure.query(async () => {
+      return getAllFeatures();
+    }),
+    
+    pricingDistribution: publicProcedure.query(async () => {
+      return getPricingModelDistribution();
+    }),
+    
+    categoryStats: publicProcedure.query(async () => {
+      return getCategoryStats();
     }),
   }),
 
