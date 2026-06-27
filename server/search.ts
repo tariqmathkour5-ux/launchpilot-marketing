@@ -11,7 +11,9 @@ export const searchInputSchema = z.object({
   categoryId: z.number().optional(),
   pricingModels: z.array(z.enum(["free", "freemium", "paid", "enterprise", "open_source"])).optional(),
   features: z.array(z.string()).optional(),
-  sortBy: z.enum(["newest", "popularity", "alphabetical", "rating"]).default("newest"),
+  tags: z.array(z.string()).optional(),
+  isVerified: z.boolean().optional().default(true),
+  sortBy: z.enum(["newest", "popularity", "alphabetical", "rating", "trending"]).default("newest"),
   page: z.number().int().positive().default(1),
   limit: z.number().int().min(1).max(100).default(20),
 });
@@ -40,7 +42,7 @@ export async function searchTools(input: SearchInput): Promise<SearchResult> {
     throw new Error("Database connection failed");
   }
 
-  const { query, categoryId, pricingModels, features, sortBy, page, limit } = input;
+  const { query, categoryId, pricingModels, features, tags, isVerified, sortBy, page, limit } = input;
   const offset = (page - 1) * limit;
 
   // Build WHERE conditions
@@ -77,8 +79,18 @@ export async function searchTools(input: SearchInput): Promise<SearchResult> {
     conditions.push(or(...featureConditions));
   }
 
-  // Only show verified tools
-  conditions.push(eq(tools.isVerified, true));
+  // Filter by tags (JSON array contains)
+  if (tags && tags.length > 0) {
+    const tagConditions = tags.map(tag =>
+      sql`JSON_CONTAINS(${tools.tags}, JSON_QUOTE(${tag}))`
+    );
+    conditions.push(or(...tagConditions));
+  }
+
+  // Filter by verified status
+  if (isVerified !== undefined) {
+    conditions.push(eq(tools.isVerified, isVerified));
+  }
 
   const whereClause = conditions.length > 0 ? and(...conditions) : undefined;
 
@@ -101,6 +113,9 @@ export async function searchTools(input: SearchInput): Promise<SearchResult> {
       break;
     case "rating":
       orderByClause = sql`${tools.rating} DESC, ${tools.reviewCount} DESC`;
+      break;
+    case "trending":
+      orderByClause = sql`${tools.monthlyUsers} DESC, ${tools.rating} DESC, ${tools.createdAt} DESC`;
       break;
     case "newest":
     default:
