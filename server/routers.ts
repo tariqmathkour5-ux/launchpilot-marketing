@@ -6,6 +6,7 @@ import { z } from "zod";
 import { getCategories, getCategoryBySlug, getTools, getToolsByCategory, getToolBySlug, createTool, getPublishedBlogPosts, getBlogPostBySlug, createContactMessage, getContactMessages } from "./db";
 import { importExportRouter } from "./import-export";
 import { searchTools, searchInputSchema, getAllFeatures, getPricingModelDistribution, getCategoryStats } from "./search";
+import { adminRouter } from "./admin";
 
 export const appRouter = router({
   system: systemRouter,
@@ -137,6 +138,9 @@ export const appRouter = router({
 
   // Import/Export router
   importExport: importExportRouter,
+
+  // Admin router
+  admin: adminRouter,
 });
 
 export type AppRouter = typeof appRouter;

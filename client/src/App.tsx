@@ -14,6 +14,7 @@ import CategoryDetail from "./pages/CategoryDetail";
 import Blog from "./pages/Blog";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
+import AdminDashboard from "./pages/AdminDashboard";
 import Navigation from "./components/Navigation";
 import Footer from "./components/Footer";
 
@@ -24,6 +25,7 @@ function Router() {
       <Navigation />
       <main className="flex-1 bg-white">
         <Switch>
+          <Route path={"/admin"} component={AdminDashboard} />
           <Route path={"/"} component={Home} />
           <Route path={"/categories"} component={Categories} />
           <Route path={"/database"} component={Database} />
